@@ -140,6 +140,6 @@ body{
 #resultPage #score {
     font-size: 1.5rem;
     text-align: center;
-    margin: 15px 0;
+    margin: 15px 10px;
     color: #3057d4;
 }
